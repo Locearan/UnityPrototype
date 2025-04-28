@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3e2935995574aa4b9eec4cce19ffa77, type: 3}
+  m_Name: DirtData
+  m_EditorClassIdentifier: 
+  tileVisual: {fileID: 11400000, guid: 6289f8980aed22e41aa97057edbb23c2, type: 2}
+  isDiggable: 1
+  baseDiggingTime: 0.5
+  resourceType: 1
+  resourceAmount: 1
